@@ -1,0 +1,18 @@
+body {
+    color: #a39387;
+    background: radial-gradient(#625f5d, rgb(13, 13, 13));
+    font-family: "Permanent Marker", cursive;
+}
+
+header {
+    border-bottom:solid 2px #a39387;
+    font-size: 23px;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+p {
+    font-size: 15px;
+}
